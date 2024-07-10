@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb5752b2-fe96-4e39-8e69-ed69a5474c4a": {
+      "ProjectGuid": "eb5752b2-fe96-4e39-8e69-ed69a5474c4a",
+      "DisplayName": "Shooting",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
